@@ -1,10 +1,10 @@
 var Twitter = require('./twitter');
 
 var config = {
-    consumerKey: "kikWgQg1aGqtUO3C2hOesXJPR",
-    consumerSecret: "7vHjYz57cTFH9Lceo6nIt9oAAYfPENzjgrq5D51HiBdIMhpQCr",
-    accessTokenKey: "2796546726-Ks9o3k5UUAQK0f0QcJLXdKvZWcTa46YICnWEjBO",
-    accessTokenSecret: "fo7G4pvZBeLu6lO7OLGUqXi0dYbjZCd4RSrjKYXHGp50g",
+    consumerKey: "",
+    consumerSecret: "",
+    accessTokenKey: "",
+    accessTokenSecret: "",
     filterParams: {
         track: ['Obama']
     },
